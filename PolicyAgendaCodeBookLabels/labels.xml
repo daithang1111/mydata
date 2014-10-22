@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+<label name="Macroeconomics"></label>
+<label name="CivilRightsMinorityIssuesandCivilLiberties"></label>
+<label name="Health"></label>
+<label name="Agriculture"></label>
+<label name="LaborandEmployment"></label>
+<label name="Education"></label>
+<label name="Environment"></label>
+<label name="Energy"></label>
+<label name="Immigration"></label>
+<label name="Transportation"></label>
+<label name="LawCrimeandFamilyIssues"></label>
+<label name="SocialWelfare"></label>
+<label name="CommunityDevelopmentandHousingIssues"></label>
+<label name="BankingFinanceandDomesticCommerce"></label>
+<label name="Defense"></label>
+<label name="SpaceScienceTechnologyandCommunications"></label>
+<label name="ForeignTrade"></label>
+<label name="InternationalAffairsandForeignAid"></label>
+<label name="GovernmentOperations"></label>
+<label name="PublicLandsandWaterManagement"></label>
+</labels>
